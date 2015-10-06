@@ -1,0 +1,31 @@
+print - function to print something in console
+# - comment
++ - addition
+- - minus
+* - multiply
+/ - devide
+% - modulus
+> - greater than
+< - less than
+>= -  greater than equal
+<= - less than equal
+%d - formating didgit
+%s - formating string
+%r - formating raw
+\t - formating tab
+\n - formating new line
+""" - text with more than one line
+raw_input([txt_to_prompt]) - print something from console
+from ${lib} import {module} - import in python
+argv - takes arguments frome console and inserts in a script
+open(${filename}) - opens a file for reading or writing
+${filename}.read() -  reads a file
+${filename}.close() - closes a file
+${filename}.readline() - reads a line from a file
+${filename}.truncate() - empties a file
+${filename}.write('txt') - writes in a file
+len(${filename}) - how big is a file
+exists(${filename}) - does a file exists
+def func_name(args): - defines a function
+
+
